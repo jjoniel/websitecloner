@@ -2,6 +2,9 @@
 
 This project consists of a backend built with FastAPI and a frontend built with Next.js and TypeScript. It uses an agentic architecture to create an HTML clone of any website, even those generated using client-side rendering such as React apps.
 
+## Demo Video
+https://youtu.be/6lD5x68t5A4
+
 ## Backend
 
 The backend uses `uv` for package management.
