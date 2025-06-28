@@ -1,6 +1,6 @@
-# Orchids SWE Intern Challenge Template
+# Website Cloner
 
-This project consists of a backend built with FastAPI and a frontend built with Next.js and TypeScript.
+This project consists of a backend built with FastAPI and a frontend built with Next.js and TypeScript. It uses an agentic architecture to create an HTML clone of any website, even those generated using client-side rendering such as React apps.
 
 ## Backend
 
